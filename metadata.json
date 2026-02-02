@@ -1,0 +1,5 @@
+{
+  "name": "macos打字技术",
+  "description": "A high-fidelity typing analytics dashboard mimicking macOS aesthetics. Tracks real-time keystrokes, visualizes key usage heatmaps, and uses Gemini to analyze writing style and content.",
+  "requestFramePermissions": []
+}
